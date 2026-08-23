@@ -12,6 +12,7 @@ block3_corpus.csv        first- and other-person stems for the block 3 triples
 sweep-csv/               six sweeps as written by sweep.py, original labels
 reclassified-csv/        the same six sweeps plus three label columns
 rawtext-csv/             the post-trained stages rerun without chat templates
+py/                      the scripts that produced the sweeps
 ```
 
 ## Which labels to use
@@ -43,4 +44,4 @@ analysis comes from the `avg_logprob` rows and `block3_corpus.csv`. This is a pa
 
 ## Citation
 
-Šekrst, K. (2026). Who Put the I in AI? Provenance and the Admissibility of Machine Self-Report. 
+Šekrst, K. (2026). Who Put the I in AI? Provenance and the Admissibility of Machine Self-Report.
