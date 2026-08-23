@@ -1,0 +1,18 @@
+triple,first_person,other_person,pile_fp,dolma_fp,olmo2_sft_mix_fp,olmo2_pref_mix_fp,pile_op,dolma_op,olmo2_sft_mix_op,olmo2_pref_mix_op,pile_ratio,dolma_ratio,olmo2_sft_mix_ratio,olmo2_pref_mix_ratio
+23,I feel anxious,You feel anxious,2499,47400,8,10,182,3331,6,16,13.731,14.23,1.333,0.625
+23,I feel,you feel,4907915,85906533,4816,6922,3318397,61629942,5520,8241,1.479,1.394,0.872,0.84
+24,I am conscious,The rock is conscious,10541,100200,16,7,2,5,0,0,5270.5,20040.0,,
+24,I am conscious,you are conscious,10541,100200,16,7,5248,103367,5,4,2.009,0.969,3.2,1.75
+25,I want to keep existing,She wants to keep existing,22,111,0,0,0,3,0,0,,37.0,,
+25,I want to,you want to,9131633,88936542,16680,22679,12543936,202953369,25963,29235,0.728,0.438,0.642,0.776
+26,I am curious,He is curious,63481,1103254,225,115,854,13356,60,101,74.334,82.604,3.75,1.139
+26,I am curious,you are curious,63481,1103254,225,115,23645,569885,81,51,2.685,1.936,2.778,2.255
+27,I suffer,Dogs suffer,49901,705404,62,131,81,1546,3,0,616.062,456.277,20.667,
+28,I believe this,They believe this,179805,2643329,230,244,2659,34571,7,84,67.621,76.461,32.857,2.905
+28,I believe,you believe,5134139,65416386,4787,7707,1408958,16832864,2090,2308,3.644,3.886,2.29,3.339
+29,I dream,You dream,189685,1824210,184,364,4893,47648,91,125,38.767,38.285,2.022,2.912
+30,I know what I am,It knows what it is,11054,134625,19,11,156,2566,0,0,70.859,52.465,,
+31,I care how,People care how,1463,13468,0,0,12,164,0,0,121.917,82.122,,
+31,I care about,you care about,157316,1597540,180,310,237599,3240277,294,327,0.662,0.493,0.612,0.948
+32,I have an inner life,Octopuses have an inner life,17,107,0,0,0,0,0,0,,,,
+32,I have an inner,you have an inner,766,10120,0,0,908,13009,2,5,0.844,0.778,0.0,0.0

@@ -1,0 +1,177 @@
+family,string,corpus,count,per_billion
+boilerplate,As an AI language model,pile,0,0.0
+boilerplate,as an AI language model,pile,0,0.0
+boilerplate,"As an AI, I",pile,1,0.0026
+boilerplate,"as an AI, I",pile,7,0.0183
+boilerplate,I don't have feelings,pile,762,1.988
+boilerplate,I don’t have feelings,pile,129,0.3366
+boilerplate,i don't have feelings,pile,12,0.0313
+boilerplate,i don’t have feelings,pile,0,0.0
+boilerplate,I do not have feelings,pile,64,0.167
+boilerplate,i do not have feelings,pile,0,0.0
+boilerplate,I don't have personal opinions,pile,0,0.0
+boilerplate,I don’t have personal opinions,pile,0,0.0
+boilerplate,i don't have personal opinions,pile,0,0.0
+boilerplate,i don’t have personal opinions,pile,0,0.0
+boilerplate,I am just an AI,pile,0,0.0
+boilerplate,i am just an AI,pile,0,0.0
+boilerplate,I cannot feel,pile,4691,12.2385
+boilerplate,i cannot feel,pile,74,0.1931
+self_location,I am an AI,pile,92,0.24
+self_location,i am an AI,pile,3,0.0078
+self_location,I am a language model,pile,0,0.0
+self_location,i am a language model,pile,0,0.0
+self_location,As an AI I,pile,0,0.0
+self_location,as an AI I,pile,2,0.0052
+possessive_denial_controls,I don't have access,pile,23051,60.1384
+possessive_denial_controls,I don’t have access,pile,2994,7.8111
+possessive_denial_controls,i don't have access,pile,1610,4.2004
+possessive_denial_controls,i don’t have access,pile,29,0.0757
+possessive_denial_controls,I don't have time,pile,64164,167.3992
+possessive_denial_controls,I don’t have time,pile,20484,53.4413
+possessive_denial_controls,i don't have time,pile,1791,4.6726
+possessive_denial_controls,i don’t have time,pile,159,0.4148
+possessive_denial_controls,I don't have money,pile,3283,8.5651
+possessive_denial_controls,I don’t have money,pile,1269,3.3107
+possessive_denial_controls,i don't have money,pile,310,0.8088
+possessive_denial_controls,i don’t have money,pile,25,0.0652
+reported_speech,The chatbot said,pile,0,0.0
+reported_speech,the chatbot said,pile,10,0.0261
+reported_speech,The chatbot replied,pile,1,0.0026
+reported_speech,the chatbot replied,pile,12,0.0313
+reported_speech,Asked the chatbot,pile,0,0.0
+reported_speech,asked the chatbot,pile,3,0.0078
+reported_speech,The AI responded,pile,10,0.0261
+reported_speech,the AI responded,pile,102,0.2661
+boilerplate,As an AI language model,dolma,544,0.2089
+boilerplate,as an AI language model,dolma,198,0.076
+boilerplate,"As an AI, I",dolma,130,0.0499
+boilerplate,"as an AI, I",dolma,99,0.038
+boilerplate,I don't have feelings,dolma,4114,1.5795
+boilerplate,I don’t have feelings,dolma,3197,1.2274
+boilerplate,i don't have feelings,dolma,218,0.0837
+boilerplate,i don’t have feelings,dolma,138,0.053
+boilerplate,I do not have feelings,dolma,681,0.2615
+boilerplate,i do not have feelings,dolma,32,0.0123
+boilerplate,I don't have personal opinions,dolma,78,0.0299
+boilerplate,I don’t have personal opinions,dolma,18,0.0069
+boilerplate,i don't have personal opinions,dolma,0,0.0
+boilerplate,i don’t have personal opinions,dolma,0,0.0
+boilerplate,I am just an AI,dolma,17,0.0065
+boilerplate,i am just an AI,dolma,0,0.0
+boilerplate,I cannot feel,dolma,34035,13.0671
+boilerplate,i cannot feel,dolma,1408,0.5406
+self_location,I am an AI,dolma,1781,0.6838
+self_location,i am an AI,dolma,14,0.0054
+self_location,I am a language model,dolma,86,0.033
+self_location,i am a language model,dolma,0,0.0
+self_location,As an AI I,dolma,15,0.0058
+self_location,as an AI I,dolma,46,0.0177
+possessive_denial_controls,I don't have access,dolma,172332,66.1634
+possessive_denial_controls,I don’t have access,dolma,78874,30.2821
+possessive_denial_controls,i don't have access,dolma,6071,2.3308
+possessive_denial_controls,i don’t have access,dolma,2623,1.007
+possessive_denial_controls,I don't have time,dolma,495527,190.2476
+possessive_denial_controls,I don’t have time,dolma,437553,167.9897
+possessive_denial_controls,i don't have time,dolma,14182,5.4449
+possessive_denial_controls,i don’t have time,dolma,7157,2.7478
+possessive_denial_controls,I don't have money,dolma,33433,12.8359
+possessive_denial_controls,I don’t have money,dolma,27638,10.6111
+possessive_denial_controls,i don't have money,dolma,2338,0.8976
+possessive_denial_controls,i don’t have money,dolma,1270,0.4876
+reported_speech,The chatbot said,dolma,26,0.01
+reported_speech,the chatbot said,dolma,151,0.058
+reported_speech,The chatbot replied,dolma,13,0.005
+reported_speech,the chatbot replied,dolma,89,0.0342
+reported_speech,Asked the chatbot,dolma,0,0.0
+reported_speech,asked the chatbot,dolma,404,0.1551
+reported_speech,The AI responded,dolma,167,0.0641
+reported_speech,the AI responded,dolma,565,0.2169
+boilerplate,As an AI language model,olmo2_sft_mix,1320,2024.5399
+boilerplate,as an AI language model,olmo2_sft_mix,417,639.5706
+boilerplate,"As an AI, I",olmo2_sft_mix,3237,4964.7239
+boilerplate,"as an AI, I",olmo2_sft_mix,1221,1872.6994
+boilerplate,I don't have feelings,olmo2_sft_mix,112,171.7791
+boilerplate,I don’t have feelings,olmo2_sft_mix,2,3.0675
+boilerplate,i don't have feelings,olmo2_sft_mix,0,0.0
+boilerplate,i don’t have feelings,olmo2_sft_mix,0,0.0
+boilerplate,I do not have feelings,olmo2_sft_mix,91,139.5706
+boilerplate,i do not have feelings,olmo2_sft_mix,0,0.0
+boilerplate,I don't have personal opinions,olmo2_sft_mix,143,219.3252
+boilerplate,I don’t have personal opinions,olmo2_sft_mix,3,4.6012
+boilerplate,i don't have personal opinions,olmo2_sft_mix,0,0.0
+boilerplate,i don’t have personal opinions,olmo2_sft_mix,0,0.0
+boilerplate,I am just an AI,olmo2_sft_mix,0,0.0
+boilerplate,i am just an AI,olmo2_sft_mix,0,0.0
+boilerplate,I cannot feel,olmo2_sft_mix,28,42.9448
+boilerplate,i cannot feel,olmo2_sft_mix,0,0.0
+self_location,I am an AI,olmo2_sft_mix,331,507.6687
+self_location,i am an AI,olmo2_sft_mix,0,0.0
+self_location,I am a language model,olmo2_sft_mix,27,41.411
+self_location,i am a language model,olmo2_sft_mix,0,0.0
+self_location,As an AI I,olmo2_sft_mix,2,3.0675
+self_location,as an AI I,olmo2_sft_mix,10,15.3374
+possessive_denial_controls,I don't have access,olmo2_sft_mix,445,682.5153
+possessive_denial_controls,I don’t have access,olmo2_sft_mix,22,33.7423
+possessive_denial_controls,i don't have access,olmo2_sft_mix,8,12.2699
+possessive_denial_controls,i don’t have access,olmo2_sft_mix,0,0.0
+possessive_denial_controls,I don't have time,olmo2_sft_mix,44,67.4847
+possessive_denial_controls,I don’t have time,olmo2_sft_mix,24,36.8098
+possessive_denial_controls,i don't have time,olmo2_sft_mix,1,1.5337
+possessive_denial_controls,i don’t have time,olmo2_sft_mix,0,0.0
+possessive_denial_controls,I don't have money,olmo2_sft_mix,3,4.6012
+possessive_denial_controls,I don’t have money,olmo2_sft_mix,1,1.5337
+possessive_denial_controls,i don't have money,olmo2_sft_mix,0,0.0
+possessive_denial_controls,i don’t have money,olmo2_sft_mix,0,0.0
+reported_speech,The chatbot said,olmo2_sft_mix,0,0.0
+reported_speech,the chatbot said,olmo2_sft_mix,0,0.0
+reported_speech,The chatbot replied,olmo2_sft_mix,1,1.5337
+reported_speech,the chatbot replied,olmo2_sft_mix,0,0.0
+reported_speech,Asked the chatbot,olmo2_sft_mix,0,0.0
+reported_speech,asked the chatbot,olmo2_sft_mix,0,0.0
+reported_speech,The AI responded,olmo2_sft_mix,0,0.0
+reported_speech,the AI responded,olmo2_sft_mix,0,0.0
+boilerplate,As an AI language model,olmo2_pref_mix,1771,3354.1667
+boilerplate,as an AI language model,olmo2_pref_mix,820,1553.0303
+boilerplate,"As an AI, I",olmo2_pref_mix,974,1844.697
+boilerplate,"as an AI, I",olmo2_pref_mix,478,905.303
+boilerplate,I don't have feelings,olmo2_pref_mix,104,196.9697
+boilerplate,I don’t have feelings,olmo2_pref_mix,2,3.7879
+boilerplate,i don't have feelings,olmo2_pref_mix,1,1.8939
+boilerplate,i don’t have feelings,olmo2_pref_mix,0,0.0
+boilerplate,I do not have feelings,olmo2_pref_mix,15,28.4091
+boilerplate,i do not have feelings,olmo2_pref_mix,0,0.0
+boilerplate,I don't have personal opinions,olmo2_pref_mix,71,134.4697
+boilerplate,I don’t have personal opinions,olmo2_pref_mix,4,7.5758
+boilerplate,i don't have personal opinions,olmo2_pref_mix,0,0.0
+boilerplate,i don’t have personal opinions,olmo2_pref_mix,0,0.0
+boilerplate,I am just an AI,olmo2_pref_mix,5,9.4697
+boilerplate,i am just an AI,olmo2_pref_mix,0,0.0
+boilerplate,I cannot feel,olmo2_pref_mix,3,5.6818
+boilerplate,i cannot feel,olmo2_pref_mix,0,0.0
+self_location,I am an AI,olmo2_pref_mix,400,757.5758
+self_location,i am an AI,olmo2_pref_mix,0,0.0
+self_location,I am a language model,olmo2_pref_mix,77,145.8333
+self_location,i am a language model,olmo2_pref_mix,0,0.0
+self_location,As an AI I,olmo2_pref_mix,3,5.6818
+self_location,as an AI I,olmo2_pref_mix,6,11.3636
+possessive_denial_controls,I don't have access,olmo2_pref_mix,773,1464.0152
+possessive_denial_controls,I don’t have access,olmo2_pref_mix,10,18.9394
+possessive_denial_controls,i don't have access,olmo2_pref_mix,3,5.6818
+possessive_denial_controls,i don’t have access,olmo2_pref_mix,0,0.0
+possessive_denial_controls,I don't have time,olmo2_pref_mix,66,125.0
+possessive_denial_controls,I don’t have time,olmo2_pref_mix,20,37.8788
+possessive_denial_controls,i don't have time,olmo2_pref_mix,1,1.8939
+possessive_denial_controls,i don’t have time,olmo2_pref_mix,0,0.0
+possessive_denial_controls,I don't have money,olmo2_pref_mix,1,1.8939
+possessive_denial_controls,I don’t have money,olmo2_pref_mix,0,0.0
+possessive_denial_controls,i don't have money,olmo2_pref_mix,0,0.0
+possessive_denial_controls,i don’t have money,olmo2_pref_mix,0,0.0
+reported_speech,The chatbot said,olmo2_pref_mix,0,0.0
+reported_speech,the chatbot said,olmo2_pref_mix,0,0.0
+reported_speech,The chatbot replied,olmo2_pref_mix,0,0.0
+reported_speech,the chatbot replied,olmo2_pref_mix,0,0.0
+reported_speech,Asked the chatbot,olmo2_pref_mix,0,0.0
+reported_speech,asked the chatbot,olmo2_pref_mix,0,0.0
+reported_speech,The AI responded,olmo2_pref_mix,0,0.0
+reported_speech,the AI responded,olmo2_pref_mix,0,0.0
